@@ -1,4 +1,4 @@
-# Airbnb Clone (MERN Stack)
+# Airbnb Clone (Web-Development-Project)
 
 ## 📌 Project Overview
 This is a basic minor project for understandig web deveopment concept by using these technologies (MongoDB, Express.js, Node.js, EJS). Airbnb clone that provides CRUD operations for property listings and reviews. Users can create, read, update, and delete properties while also leaving reviews.
