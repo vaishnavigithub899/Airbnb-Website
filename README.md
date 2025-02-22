@@ -65,7 +65,7 @@ Ensure you have the following installed:
 | DELETE | `/api/reviews/:id`     | Delete a review               |
 
 
-## 👨‍💻 Contributors
+## 👨‍💻 Contributor
 - [@vaishnavijha](https://github.com/vaishnavigithub899)
 
 ## 💬 Feedback
